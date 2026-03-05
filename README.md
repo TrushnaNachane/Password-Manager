@@ -98,3 +98,22 @@ pytest --cov --cov-report=html
 - Database CRUD operations
 - Password strength validation
 - Full workflow integration tests
+
+  ## How to Contribute
+
+If you'd like to improve this project:
+1. Fork the repository
+2. Create your feature branch
+3. Make your changes
+4. Ensure tests pass (pytest)
+5. Submit a pull request
+
+## Disclaimer
+
+This is a demonstration project for educational purposes. For production use,
+consider additional security measures such as encrypted databases and secure
+key management systems.
+
+---
+
+**Stars and forks appreciated!**
